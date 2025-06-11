@@ -2,7 +2,6 @@
 layout: homepage
 ---
 
-**# About**
 
 I am a PhD candidate in [Communications](https://www.upf.edu/web/comunicacio) at Universitat Pompeu Fabra in Barcelona, funded by a PIPF-UPF grant. My doctoral research, supervised by [Prof. Pilar Medina Bravo](https://www.upf.edu/web/master-investigacio-comunicacio/profesorat/-/asset_publisher/Bm5dQSWD0KaM/content/medina-bravo-pilar/35446147/maximized), focuses on a critical approach to sentiment analysis. I hold an M.Res in [Cognitive Systems and Interactive Media](https://www.upf.edu/web/master-universitari-sistemes-cognitius-mitjans-interactius) from UPF and a B.Eng in Telecommunications from ULPGC.
 
